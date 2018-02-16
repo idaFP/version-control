@@ -12,3 +12,11 @@ It is kind of a tool for your working memory. I think it is clever to be able
 to move the files you want to commit at once in a separate place. And actually,
 this seems to be a more efficient way to create a not-all-inclusive commit than
 any others that I could think about.
+
+Q: How can you use the staging area to make sure you have one commit per logical
+change?
+
+A: You can add the changes you have made to the staging area, then compare the
+staging are with the last commit you have done with the command git diff --staged.
+Then you will notice if they make a logical entity and if you want or don't want
+to commit them at once.
