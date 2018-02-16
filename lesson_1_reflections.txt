@@ -1,0 +1,51 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A: Viewing a diff helped to see the bug by providing two different versions of the same file.
+Especially if the note is a typo, it is easy to find. Otherwise you can compare the two versions
+for example by running them in turns and try to find out what is the matter.
+
+Q: How could having easy access to the entire history of a file make you a more efficient
+programmer in the long term?
+
+A: I try to think about this by taking my resumes as an example. I have so many of them, that it
+sometimes takes comparatively a lot of time to choose which one I should use. I wont even need
+¨most of them any time in the future. It is of course more efficient to have one file with many
+versions of it instead a lot of separately saved versions of one and the same document.
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like
+you do in Git, vs having versions automatically saved, like Google Docs does?
+
+A: The good thing about automatic saving is that you don't need to think about saving at all.
+Even if you run out of battery all of a sudden or have to run away and forget to change, your
+files are safe. Manual saving in contrast allows you to have a more structured and beneficial
+backup system, but you might sometimes loose some of your work for some reason. You might also
+be stressed up and save too often although deciding to save after each entirety helps your
+mental processing in relation to this matter.
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one
+commit, while others, like Google Docs, treat each file separately?
+
+A: Git's way allows you to track easily changes that affect multiple files at once. The others
+aren't designed for coding purposes which makes it less probable that you should track changes
+in various files at once.
+
+Q: How can you use the commands git log and git diff to view the history of files?
+
+A: The command git log gives you a list of all commits in the current repository's history.
+Then you can find two consecutive commits that you can compare by using the git diff command
+and the IDs of the commits.
+
+Q: How might using version control make you more confident to make changes that could break
+something?
+
+A: If I use version control, I can always make a commit when I am sure everything works fine.
+Then I could try out what ever crazy ideas that come in my mind and be sure that if they don't
+work out I have my basic work saved.
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+
+A: I would like to start my math book project in git. I want to be able to clone someone else's
+repository, choose the most useful version for me and start modifying the code to create
+something useful.
+
+Q: 
