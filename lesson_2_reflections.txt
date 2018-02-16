@@ -1,0 +1,14 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: When you initialize a repository, git creates some hidden metadata in a file
+named .git this is used for storing the snapshots of your repository I assume.
+If you don't have a repository, you don't have the git functionalities.
+
+Q: How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+A: The staging area contains files that you want to include in one commit.
+It is kind of a tool for your working memory. I think it is clever to be able
+to move the files you want to commit at once in a separate place. And actually,
+this seems to be a more efficient way to create a not-all-inclusive commit than
+any others that I could think about.
