@@ -26,4 +26,11 @@ history organized? How would branches help?
 
 A: I might want to try something new and experimental but keep an old working
 version too. Or I might want to make an easier or harder version of a game. Or I
-might want to try how my project looks like while using another language. 
+might want to try how my project looks like while using another language.
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: The diagrams help me a lot when I have to understand what a branch is and
+which of them are reachable. Even though the name in itself is a good tips about
+the way you can think about branches, the diagram makes things even more clear.
+It makes you think about an actual tree which makes memorization way easier.
