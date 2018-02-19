@@ -47,5 +47,3 @@ Q: Now that you have your workspace set up, what do you want to try using Git fo
 A: I would like to start my math book project in git. I want to be able to clone someone else's
 repository, choose the most useful version for me and start modifying the code to create
 something useful.
-
-Q: 

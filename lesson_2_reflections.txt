@@ -31,6 +31,15 @@ might want to try how my project looks like while using another language.
 Q: How do the diagrams help you visualize the branch structure?
 
 A: The diagrams help me a lot when I have to understand what a branch is and
-which of them are reachable. Even though the name in itself is a good tips about
-the way you can think about branches, the diagram makes things even more clear.
-It makes you think about an actual tree which makes memorization way easier.
+which of them are reachable. Even though the name itself is a good tips about
+the way you can think about branches, seeing the diagram makes things even more
+clear. It makes you think about an actual tree which makes memorization way
+easier.
+
+Q: What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+A: The result is one tip with two parents. The name of the tip or your new,
+combined branch is the one in which you chose to be while merging. The diagram
+representation results from the fact that two branches unite into one and the
+name of the old branch is wiped away.
