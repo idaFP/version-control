@@ -43,3 +43,12 @@ A: The result is one tip with two parents. The name of the tip or your new,
 combined branch is the one in which you chose to be while merging. The diagram
 representation results from the fact that two branches unite into one and the
 name of the old branch is wiped away.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+A: It is extremely helpful when a algorithm determines wether or not the files
+can be merged. To me it seems that the criteria git uses is sufficient for
+avoiding ruining working code. It is also good to sometimes discus a cooperative
+project so a merge conflict might be a perfect moment for that.
+It seems that I don't have so much to say about this subject.
