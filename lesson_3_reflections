@@ -8,7 +8,10 @@ If I cooperate and want to have a better control on the project and its various 
 Q: Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+A: If Git updated my local repository, It might cause problems with my version
+of the code. If I am for example just trying out something new or even planning
+to make a new branch out of my changes at the end of the day, Git might ruin my
+plans by auto updates.
 
 Q: Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
