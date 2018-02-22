@@ -1,7 +1,7 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 
 A: When you initialize a repository, git creates some hidden metadata in a file
-named .git this is used for storing the snapshots of your repository I assume.
+named .git. This is then used for storing the snapshots of your repository I assume.
 If you don't have a repository, you don't have the git functionalities.
 
 Q: How is the staging area different from the working directory and the
@@ -39,7 +39,7 @@ easier.
 Q: What is the result of merging two branches together? Why do we represent it
 in the diagram the way we do?
 
-A: The result is one tip with two parents. The name of the tip or your new,
+A: The result is one tip with two parents. The name of the tip of your new,
 combined branch is the one in which you chose to be while merging. The diagram
 representation results from the fact that two branches unite into one and the
 name of the old branch is wiped away.
@@ -47,7 +47,7 @@ name of the old branch is wiped away.
 Q: What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 
-A: It is extremely helpful when a algorithm determines wether or not the files
+A: It is extremely helpful when an algorithm determines whether or not the files
 can be merged. To me it seems that the criteria git uses is sufficient for
 avoiding ruining working code. It is also good to sometimes discus a cooperative
 project so a merge conflict might be a perfect moment for that.
