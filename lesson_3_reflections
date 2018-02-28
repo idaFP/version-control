@@ -16,7 +16,12 @@ plans by auto updates.
 Q: Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+A: A branch is a new part of a project that you are working on you often have a
+master branch which is a working version of the code for example. Then other
+branches for experiments, different languages etc.
+A fork is made when you want to use an existing repository that in most cases is
+created by someone else. A clone is another version of a repository. You might
+for example clone a fork on your computer so that you can start to work with it.
 
 Q: What is the benefit of having a copy of the last known state of the remote
 stored locally?
