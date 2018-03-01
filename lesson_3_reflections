@@ -26,7 +26,10 @@ for example clone a fork on your computer so that you can start to work with it.
 Q: What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+A: The answer seems both obvious and obscure. On one hand of course you should
+have an as new as possible local copy on your computer. If you work offline, you
+can compare the changes you have done to a at least relatively new version.
+But I do feel that there might be a reason that I do not understand yet.
 
 Q: How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
