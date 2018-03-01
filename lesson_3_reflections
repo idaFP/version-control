@@ -34,7 +34,14 @@ But I do feel that there might be a reason that I do not understand yet.
 Q: How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+A: I think one option is to decide to work on a cooperative project separately
+only on different times - quite annoying! You could also use Google Drive or Drop
+Box but thy don't have specific code editors. Also the Git version-control system
+works in a different way saving a snapshot of your files each time you commit,
+not only the differences. I assume this is why it is easier to compare the changes
+that have been made. It seems that Git and GitHub have many advantages compared
+to other ways I can come up with. I don't know enough of collaboration to make a
+reliable comparison though...
 
 Q: When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
