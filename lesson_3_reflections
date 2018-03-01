@@ -43,7 +43,13 @@ that have been made. It seems that Git and GitHub have many advantages compared
 to other ways I can come up with. I don't know enough of collaboration to make a
 reliable comparison though...
 
-Q: When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+Q: When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
 
-    Fill in your answer here
+A: A separate branch can be used for experiments so that you wont break the master.
+It can be used for doing pull requests so that discussing the changes you or
+someone else want to make is easier.
+Working on a single branch on the other side is maybe more efficient, the
+workflow is simpler and smoother but you might not always have a working version
+if someone wants to see your project while you are just trying sth out.
+This is a hard question though since it kind of seems obvious again:)
